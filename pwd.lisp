@@ -294,12 +294,19 @@
   :about "https://spikepuppet.io/posts/about-me/"
   :hnuid "spikepuppet"
   :bio "Writes and rants about technology, startups and tools I find fun.")
-
+ 
  (:name "Sam Broner"
   :site "https://sambroner.com/"
   :feed "https://sambroner.com/rss.xml"
   :hnuid "sambroner"
   :bio "Writes about blockchains, distributed systems, dev tools, CRDTs, etc.")
+
+ (:name "Sameer Dahal"
+  :site "https://sameerdahal.com/"
+  :feed "https://sameerdahal.com/rss.xml"
+  :about "https://sameerdahal.com/about/"
+  :hnuid "dahsameer"
+  :bio "Software Engineer. Writes random things.")
 
  (:name "Sean Goedecke"
   :site "https://www.seangoedecke.com/"
